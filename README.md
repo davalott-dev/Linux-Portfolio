@@ -66,6 +66,6 @@ GitHub Username: alice-dev
 
 ## ✨ Project Purpose
 
-This project was built to demonstrate command-line fluency in Linux and simulate a practical, operations-style workflow using only shell commands — great for early sysadmin practice, technical portfolios, or training bootcamp-style students in real-world terminal skills.
+This project was created to showcase my Linux command-line skills. It demonstrates how to use terminal commands to organize data, manage files and folders, and simulate a real-world student cohort system
 
 ---
